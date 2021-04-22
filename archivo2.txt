@@ -1,1 +1,2 @@
 Archivo 2 curso Git
+archivo modificado para probar reset o revert en Git
